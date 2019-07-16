@@ -1,5 +1,20 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <div>about</div>
 </template>
+
+<script>
+export default {
+  data () {
+    return {
+
+      //   'title1', 'title2', 'title3'
+      // ],
+      // icons: [
+      //   'mdi-alert',
+      //   'mdi-alert-box',
+      //   'mdi-alert-circle'
+
+    }
+  }
+}
+</script>
